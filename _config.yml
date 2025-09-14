@@ -2,10 +2,10 @@ title: Hexo
 subtitle: ''
 description: ''
 keywords: null
-author: John Doe
+author: hcnicepink
 language: zh
 timezone: ''
-url: http://example.com
+url: http://hcnicepink.github.io
 permalink: ':year/:month/:day/:title/'
 permalink_defaults: null
 pretty_urls:
